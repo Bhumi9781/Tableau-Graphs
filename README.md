@@ -24,7 +24,7 @@ Below are some example screenshots from the Tableau Graph Gallery project:
 
 | Pareto Charts Example | Calender Example | Quadrant Example |
 |:------------------:|:------------------:|:------------------------:|
-| ![Bar Chart Screenshot](screenshots\Barbel.png) | ![Calendar Screenshot](screenshots\Calender.png) | ![Map Screenshot](screenshots\Quadrant.png) |
+| ![Bar Chart Screenshot](screenshots/Barbel.png) | ![Calendar Screenshot](screenshots/Calender.png) | ![Map Screenshot](screenshots/Quadrant.png) |
 
 Explore the `/screenshots` folder for more visualization previews.
 
