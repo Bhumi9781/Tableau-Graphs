@@ -138,7 +138,7 @@ Hello! I’m Bhumi, a passionate data enthusiast and Tableau expert with a keen 
 
 You can reach me for any questions, suggestions, or collaboration inquiries through the following channels:
 
-- **GitHub**: [github](https://github.com/Bhumi9781/)
+- **GitHub**: [https://github.com/Bhumi9781/](https://github.com/Bhumi9781/)
 - **Email**: [bhumibansal8500@gmail.com](mailto:bhumi9781@gmail.com)
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/bhumi9781)
 
