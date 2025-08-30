@@ -17,6 +17,17 @@ Each visualization is built using sample or mock data, focusing on clarity, flex
 
 ---
 
+
+## 🖼️ Screenshots
+
+Below are some example screenshots from the Tableau Graph Gallery project:
+
+| Pareto Charts Example | Calender Example | Quadrant Example |
+|:------------------:|:------------------:|:------------------------:|
+| ![Bar Chart Screenshot](screenshots/Barbel.png) | ![Calendar Screenshot](screenshots/Calender.png) | ![Map Screenshot](screenshots/Quadrant.png) |
+
+Explore the `/screenshots` folder for more visualization previews.
+
 ## 📷 Gallery of Visualizations
 
 Here’s a categorized list of the 61 visualizations included in this project:
@@ -114,4 +125,21 @@ Here’s a categorized list of the 61 visualizations included in this project:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubham496/graphs-tableau/
+   git clone https://github.com/Bhumi9781/Tableau-Graphs.git
+
+
+## About Me
+
+Hello! I’m Bhumi, a passionate data enthusiast and Tableau expert with a keen interest in visualizing complex data in insightful ways. I believe in leveraging data to drive decision-making and uncover hidden trends. If you're interested in discussing data visualization, collaboration opportunities, or just want to connect, feel free to reach out!
+
+---
+
+## 📬 Contact
+
+You can reach me for any questions, suggestions, or collaboration inquiries through the following channels:
+
+- **GitHub**: [github](https://github.com/Bhumi9781/)
+- **Email**: [bhumibansal8500@gmail.com](mailto:bhumi9781@gmail.com)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/bhumi9781)
+
+Looking forward to hearing from you!
